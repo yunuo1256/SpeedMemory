@@ -1,0 +1,5 @@
+# The software itself needs no third-party dependencies
+# (it uses only the Python standard library, tkinter).
+# The dependency below is only needed to package the source
+# into an executable.
+pyinstaller>=6.0
